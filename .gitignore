@@ -1,0 +1,9 @@
+# Ignore files with API keys
+config.js
+.env
+
+# Ignore node modules if you're using npm
+node_modules/
+
+# Ignore .DS_Store files on macOS
+.DS_Store
